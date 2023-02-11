@@ -46,15 +46,15 @@ The Web App can be accessible from [https://typing-test-project.vercel.app](http
 
 Practice Page:
 
-<img src="./assets/images/practice.png">
+<img src="https://live.staticflickr.com/65535/52682495593_294fb2bf27_z.jpg">
 
 Session Completion Message:
 
-<img src="./assets/images/typing-session-completed.png">
+<img src="https://live.staticflickr.com/65535/52682425100_e5b01f855a_z.jpg">
 
 Report Generated on Completion:
 
-<img src="./assets/images/Report.png">
+<img src="https://live.staticflickr.com/65535/52682494228_b1e1c6f089_c.jpg">
 
 ---
 ## Contributors <br>  Thanks to all the contributors for their efforts 💖
